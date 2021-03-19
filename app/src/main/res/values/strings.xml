@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="play">Play</string>
+    <string name="set_from_camera">Set from camera</string>
+    <string name="remuse">Remuse</string>
+    <string name="pause">Pause</string>
+    <string name="set_from_gallery">set from gallery</string>
+</resources>
